@@ -1,2 +1,3 @@
 # kirtitiwari-demo
-this is ,y first repository
+this is ,y first repositorya
+author - kirti tiwari
